@@ -1,7 +1,6 @@
 {
   "name": "reddit-app",
   "version": "0.1.0",
-  "homepage": "https://IKanjilal.github.io/react-reddit-app",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.3",
